@@ -1,16 +1,16 @@
 # ReactJS-Seed Project
 
 - ### Clone the project from the following link
-```https://github.com/ruchirachamara/react-seed.git```
+  ```https://github.com/ruchirachamara/react-seed.git```
 
 - ### Install the dependencies
-```cd react-seed && npm install```
+  ```cd react-seed && npm install```
 
 - ### Run the project
-```npm start```
+  ```npm start```
 
 - ### To Build the project
-```npm build```
+  ```npm build```
 
 - ### ToDo
-Have to add redux
+  Have to add redux
